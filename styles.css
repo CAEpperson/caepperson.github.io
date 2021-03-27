@@ -1,1 +1,76 @@
 /* Write your CSS here! */
+#DinoFacts{
+    margin-left: 200px; 
+  font-size: 28px; 
+  padding: 0px 10px;
+}
+body{
+    background-color: #FFB6C1;
+    margin: 8px;
+}
+.center {
+    text-align: center;
+}
+#DinoName{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+#mainHeading{
+    color: red;
+}
+h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+h3{
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.funParagraph{
+    color: green;
+}
+audio{
+    margin-left: 100px;
+}
+header{
+    
+    margin-left: 210px; 
+  font-size: 28px; 
+  padding: 0px 10px;
+}
+article{
+    border-style: double;
+}
+ul{
+    list-style-type: none;
+}
+#sidebar {
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+  
+  #sidebar a {
+    padding: 2px 2px 2px 2px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #2196F3;
+    display: block;
+  }
+  
+  #sidebar a:hover {
+    color: #064579;
+  }
